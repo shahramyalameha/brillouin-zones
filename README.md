@@ -37,3 +37,8 @@ and enjoy the code
 
 # breif description of the code:
 - soon...
+
+
+# TODO 
+- colorize the zones
+
