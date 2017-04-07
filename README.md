@@ -28,7 +28,7 @@ installing libraries with pip:
 
 and then running the code 
 ```bash
-	python3 ./brillouin-zones,py
+	python3 ./brillouin-zones.py
 ```
 and enjoy the code
 
