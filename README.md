@@ -6,7 +6,7 @@ in python 3.5
 for installing fist need python 3.5 is installed in ubutnu.
 
 needed libraries:
-- matplotlib.pyplot
+- matplotlib
 - numpy
 - tkinter
 
@@ -22,7 +22,7 @@ installing pip:
 ```
 installing libraries with pip:
 ```bash
-	sudo pip3 install matplotlib.pyplot
+	sudo pip3 install matplotlib
 	sudo pip3 install numpy
 ```
 
